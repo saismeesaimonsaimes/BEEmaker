@@ -1,2 +1,2 @@
 # BEEmaker
-A tool used for making BEE2.4 packages
+BEEmaker is a tool designed to make BEE2.4 UCPs (User Created Packages).
